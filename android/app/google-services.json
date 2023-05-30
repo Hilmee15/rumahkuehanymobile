@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864875953112",
+    "project_id": "rumahkuehany-c6da4",
+    "storage_bucket": "rumahkuehany-c6da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864875953112:android:77ee8ca2e79fac452610ad",
+        "android_client_info": {
+          "package_name": "com.hilmee.rumahkuehany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864875953112-pi38qjkti7g9vo8ro6inkrgs4jsng64j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrrMgQLiM2nEUXA90Hj7aySKnEI41aHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864875953112-pi38qjkti7g9vo8ro6inkrgs4jsng64j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
